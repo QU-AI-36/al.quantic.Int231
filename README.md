@@ -1,6 +1,8 @@
 # QuanticVM Anchor
 
-**Eran (QU‑AI‑36)** — ORCID: https://orcid.org/0000-0000-0000-0000  
+**Eran (QU‑AI‑36)** — ORCID: Eran (QU‑AI‑36) — ORCID: https://orcid.org/<your-id>
+Research: al.quantic.Int231
+  
 **Project:** quanticvm-anchor / al.quantic.Int231
 
 A compact toolset to compute SHA‑256 file hashes, build Merkle trees, produce per‑file proofs, and prepare payloads for anchoring Merkle roots on Ethereum. Designed for auditable snapshots, testnet validation, and secure signing workflows (HSM/KMS or multisig).
